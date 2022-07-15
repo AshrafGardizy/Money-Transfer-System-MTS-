@@ -47,3 +47,5 @@ Please follow the following steps for installation of this project:
 **Step 5:** Unzip the source code of the project in htdocs folder of the XAMPP.
 
 **Step 6:** Create a database according to Connection file of the project.
+
+*Sincerely Regards*
